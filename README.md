@@ -132,6 +132,7 @@ big-five-factor-analysis/
 └── figures/
     ├── response_distributions.png
     ├── polychoric_correlations.png
+    ├── factorability_kmo.png
     ├── parallel_analysis.png
     ├── pca_loadings.png
     ├── factor_loadings.png
